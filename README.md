@@ -11,7 +11,7 @@ Ensure you have the following installed on your system:
 ## Build Instructions
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-repo/hotel-reservation.git
+   git clone https://github.com/harshaldesale45/ReservationSystem.git
    cd ReservationSystem
    ```
 2. **Build the Project:**
