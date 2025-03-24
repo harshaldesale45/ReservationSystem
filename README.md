@@ -43,23 +43,6 @@ Availability(H1 20240901 SGL)
 Search(H1 365 SGL)
 ```
 
-## Project Structure
-```
-├── src/main/java/com/staah/reservation
-│   ├── Main.java
-│   ├── model/
-│   │   ├── Hotel.java
-│   │   ├── Booking.java
-│   ├── strategy/
-│   │   ├── QueryStrategy.java
-│   │   ├── SearchStrategy.java
-│   │   ├── AvailabilityStrategy.java
-├── src/main/resources/
-│   ├── hotels.json
-│   ├── bookings.json
-├── pom.xml
-```
-
 ## Configuration
 Modify the `hotels.json` and `bookings.json` files under `src/main/resources/` to update hotel and booking data.
 
