@@ -12,7 +12,7 @@ Ensure you have the following installed on your system:
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/your-repo/hotel-reservation.git
-   cd hotel-reservation
+   cd ReservationSystem
    ```
 2. **Build the Project:**
    ```sh
